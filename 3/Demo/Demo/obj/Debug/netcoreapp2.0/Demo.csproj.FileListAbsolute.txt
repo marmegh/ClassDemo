@@ -1,0 +1,9 @@
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\Demo\bin\Debug\netcoreapp2.0\Demo.deps.json
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\Demo\bin\Debug\netcoreapp2.0\Demo.dll
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\Demo\bin\Debug\netcoreapp2.0\Demo.pdb
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\Demo\obj\Debug\netcoreapp2.0\Demo.csprojResolveAssemblyReference.cache
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\Demo\obj\Debug\netcoreapp2.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\Demo\obj\Debug\netcoreapp2.0\Demo.AssemblyInfoInputs.cache
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\Demo\obj\Debug\netcoreapp2.0\Demo.AssemblyInfo.cs
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\Demo\obj\Debug\netcoreapp2.0\Demo.dll
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\Demo\obj\Debug\netcoreapp2.0\Demo.pdb

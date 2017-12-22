@@ -1,0 +1,16 @@
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\bin\Debug\netcoreapp2.0\TestDemoMS.deps.json
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\bin\Debug\netcoreapp2.0\TestDemoMS.runtimeconfig.json
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\bin\Debug\netcoreapp2.0\TestDemoMS.runtimeconfig.dev.json
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\bin\Debug\netcoreapp2.0\TestDemoMS.dll
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\bin\Debug\netcoreapp2.0\TestDemoMS.pdb
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\bin\Debug\netcoreapp2.0\Demo.dll
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\bin\Debug\netcoreapp2.0\Demo.pdb
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\obj\Debug\netcoreapp2.0\TestDemoMS.csprojResolveAssemblyReference.cache
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\obj\Debug\netcoreapp2.0\TestDemoMS.csproj.CoreCompileInputs.cache
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\obj\Debug\netcoreapp2.0\TestDemoMS.AssemblyInfoInputs.cache
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\obj\Debug\netcoreapp2.0\TestDemoMS.AssemblyInfo.cs
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\obj\Debug\netcoreapp2.0\TestDemoMS.dll
+C:\Users\marym\Documents\Dojo\netCore\Demo\Last\Demo\TestDemoMS\obj\Debug\netcoreapp2.0\TestDemoMS.pdb
